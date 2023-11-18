@@ -1,0 +1,21 @@
+.nav-link {
+  color: rgb(255 255 255) !important;
+  font-weight: 400;
+}
+
+.logo-name {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 36px;
+  font-weight: 650;
+  color: #fff;
+  letter-spacing: 0.8px;
+  margin-left: 18px;
+}
+
+.logo-orange {
+  color: #fd7e14;
+}
+.logo-green {
+  color: #2f9e44;
+}
